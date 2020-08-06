@@ -59,9 +59,11 @@ The tasks given to me were as followed:
     County Votes: 306,055
     County Percentage: 82.8%
     
-   
+## Summary of Results
+
 ![](Analysis/election_analysis.png) 
 
 ## Election-Audit Summary
+
   This election audit was done using a script that was able to clearly identify each candidate and county in order to analyze the results of the election based on these two categories. The script was able to break down each category into subcategories such as particular number of candidates/counties and the individual stats for each subcategory withing the main category. The potential of this script does not stop with this analysis, it can be used in the future for different elections with simple modifications. Modifications’ such as a new dependency with similar output shown in the election_results.csv file, regardless of the candidates or counties shown, with a csv file, we are able to apply the same script and get similar but specific analysis for the election at hand. Another example of a simple modification that would allow us to use this script for any election would be initializing the county list and dictionary to specific values so that we get the output for those particular values.
 
